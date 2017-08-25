@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Jekyll搭建博客"
+date:   2017-08-25 10:49:43 +0800
+categories: jekyll update
+---
+本篇文章主要讲用Jekyll快速搭建博客，分享自己的心得
+# 准备工作
+1. 开发系统环境Windows
+2. Ruby
+3. Jekyll
+4. github
+
+# 开始搭建
+#### 安装Ruby
+* 使用 `RubyInstaller` 来安装 Ruby 环境，下载地址为：[请点击这里下载。](https://rubyinstaller.org/downloads/)
+* 然后在安装 `DEVELOPMENT KIT`
+* 测试：<br /> `ruby -v`
+#### 安装Jakyll
