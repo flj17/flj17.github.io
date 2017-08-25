@@ -39,14 +39,16 @@ categories: jekyll update
 #### 在WebStrom中配置GitHub
 * 点击：File-settings
 * 点击：Version Control-GitHub <br />
-在`Host`中输入：`github.com` <br />
-在`Login`中输入：github账号 <br />
-在`password`中输入：github密码
-* 点击：`Test`<br />
-显示`connection successful` ，表示配置成功，点击`OK`
-* 点击`OK`，配置完成
+在 `Host` 中输入： `github.com` <br />
+在 `Login` 中输入： `github` 账号 <br />
+在 `password` 中输入： `github` 密码
+* 点击： `Test` <br />
+显示 `connection successful` ，表示配置成功，点击`OK`
+* 点击 `OK` ，配置完成
 
 #### 用WebStrom向GItHub上传更新的内容
-* 在项目上点击右键，找到Git下的Add，并点击
-* 在项目上点击右键，找到Git下的commit Directory...，并点击；在commit Message中写备注内容，然后点击commit
-* 在项目上点击右键，找到Git下的Repository-push...，并点击；
+* 在项目上点击右键，找到 `Git` 下的 `Add` ，并点击
+* 在项目上点击右键，找到 `Git` 下的 `commit Directory...` ，并点击；在 `commit Message` 中写备注内容，然后点击 `commit`
+* 在项目上点击右键，找到 `Git` 下的 `Repository-push...` ，并点击；点击刚才 `Add` 的内容；点击 `Push`
+
+
