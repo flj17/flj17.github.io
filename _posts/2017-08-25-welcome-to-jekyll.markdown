@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!测试更改内容上传"
+title:  "Welcome to Jekyll!"
 date:   2017-08-25 10:49:43 +0800
 categories: jekyll update
 ---

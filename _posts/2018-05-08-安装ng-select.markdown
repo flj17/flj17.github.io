@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "安装ng-select"
+date:   2018-05-08
+categories: jekyll update
+---
+应用ng-select时遇到的小问题：<br>
+安装ng-select：<br>
+<pre><code>npm install --save ng-select</code></pre>
+提示部分安装包和文件不匹配<br>
+安装需要升级的包：<br>
+<pre><code>npm install @angular/common@latest @angular/compiler@latest --save</code></pre>
+更新其它一些包，可以指定版本号<br>
+<pre><code>npm install zone.js@0.8.4 --save</code></pre>
+安装jQuery：<br>
+<pre><code>npm install --save jquery</code></pre>
+<pre><code>npm install @types/jquery --save</code></pre>
