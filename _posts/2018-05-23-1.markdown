@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "工具整理"
+date:   2018-05-23
+categories: jekyll update
+---
+脑子健忘的厉害，记录一下用到的工具。
+# 项目管理工具
+1. GitLab
+* 通过web界面托管Git项目仓库。Github的repository（仓库）都是public（公开），创建private（私有）的需要付钱，而GitLab可以免费创建私有的repository。git是一个开源的分布式版本控制系统（我依然不是很懂这个git）。
+2. Jira
+* 项目管理、缺陷跟踪、版本管理（这个还没用，等用过再补充）。
+3. Confluence
+* 文档管理、人物管理、资源管理
+4. ProcessOn
+* 作图工具（画流程图什么的，很6）
+5. Maven
+* Apache Maven是一个软件项目管理和综合工具。基于项目对象模型（POM）的概念，Maven可以从一个中心资料片管理项目构建，报告和文件。POM代表项目对象模型。它是 Maven 中工作的基本单位，这是一个 XML 文件。它始终保存在该项目基本目录中的 pom.xml 文件。POM 包含的项目是使用 Maven 来构建的，它用来包含各种配置信息。
+6. Jdk
+* JDK是Java语言的软件开发工具包。
+7. Apache 和 Tomcat 
+* Apache是web服务器（静态解析，如HTML），tomcat是java应用服务器（动态解析，如JSP）。Tomcat只是一个servlet(jsp也翻译成servlet)容器，可以认为是apache的扩展，但是可以独立于apache运行。比如：Apache是一辆车，上面可以装一些东西如html等，但是不能装水，要装水必须要有容器（桶），而这个桶也可以不放在卡车上，那这个桶就是TOMCAT。
+8. Nginx
+* Nginx是一款轻量级的Web 服务器/反向代理服务器及电子邮件（IMAP/POP3）代理服务器。其特点是占有内存少，并发能力强。
+9. NPM
+* NPM是随同NodeJS一起安装的包管理工具，能解决NodeJS代码部署上的很多问题。
